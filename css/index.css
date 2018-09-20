@@ -3,3 +3,20 @@
 .navbar-brand img {
 	height: 100%;
 }
+
+nav form#search {
+	float: right;
+	padding: 0.5rem;
+}
+
+nav form#search .glyphicon-search {
+	z-index: 99;
+	position: absolute;
+	right: 0.7rem;
+	top: 50%;
+	margin-top: -0.44rem;
+}
+
+nav form#search .input-group .form-control {
+	border-radius: 0.25rem;
+}
