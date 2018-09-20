@@ -20,3 +20,17 @@ nav form#search .glyphicon-search {
 nav form#search .input-group .form-control {
 	border-radius: 0.25rem;
 }
+
+#nav-options {
+	margin: 0.5rem;
+}
+
+#nav-options button.thumbnail {
+	margin: 0;
+	padding: 0;
+}
+
+#nav-options img {
+	max-height: 2.3rem;
+	border-radius: 0.3rem;
+}
