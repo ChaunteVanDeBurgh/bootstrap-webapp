@@ -78,3 +78,16 @@ nav form#search .input-group .form-control {
 #tweet {
 	margin: .5em;
 }
+
+.navbar-header .navbar-toggle,
+.navbar-default .navbar-toggle:focus {
+	background-color: #57A5D2;
+}
+
+.navbar-default .navbar-toggle:hover {
+	background-color: #3986B3;
+}
+
+.navbar-default .navbar-toggle .icon-bar {
+	background-color: #FFF;
+}
