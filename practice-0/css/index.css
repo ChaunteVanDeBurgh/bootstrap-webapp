@@ -1,0 +1,15 @@
+#nav-menu {
+	float: right;
+}
+
+#e {
+	color: white;
+	font-weight: bold;
+	font-size: 3rem;
+	padding-top: .5rem;
+	padding-bottom: 0rem;
+	margin-top: .5rem;
+	margin-bottom: .5rem;
+	background-color: #8258FA;
+	border-radius: 1rem;
+}
