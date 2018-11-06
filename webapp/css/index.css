@@ -91,3 +91,16 @@ nav form#search .input-group .form-control {
 .navbar-default .navbar-toggle .icon-bar {
 	background-color: #FFF;
 }
+
+@media(max-width: 34em) {
+	.navbar-default .navbar-nav > .active > a {
+		border-bottom: none;
+		border-left: 0.45em solid #FFF;
+		padding-left: 0.5em;
+	}
+}
+
+body {
+	padding-top: 4em;
+	background-color: #F5F8FA;
+}
