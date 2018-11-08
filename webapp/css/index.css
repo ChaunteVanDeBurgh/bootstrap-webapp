@@ -277,3 +277,12 @@ div#who-follow li .info glyphicon {
 	 color: #2F92CA;
 }
 
+/* alert */
+.alert h3 {
+	margin: 0 0 1rem;
+	font-size: 1.4em;
+}
+
+.alert {
+	border-left-width: 0.5rem;
+}
