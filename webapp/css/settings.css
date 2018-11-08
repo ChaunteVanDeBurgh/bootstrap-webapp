@@ -1,0 +1,25 @@
+/*pills*/
+#profile-settings .nav-stacked li {
+	border-bottom: 1px solid #e5e5e5;
+	margin: 0;
+}
+
+#profile-settings .nav-stacked li:last-child {
+	border-bottom: 0;
+}
+
+#profile-settings .nav-stacked a {
+	border-radius: 0;
+}
+
+#profile-settings .nav-stacked li:first-child a {
+	border-radius: 0.4rem 0.4rem 0 0;
+}
+
+#profile-settings .nav-stacked li:last-child a {
+	border-radius: 0 0 0.4rem 0.4rem;
+}
+
+#profile-settings {
+	margin-top: 2rem;
+}
