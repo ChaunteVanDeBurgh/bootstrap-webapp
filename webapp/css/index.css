@@ -150,7 +150,13 @@ body {
 	color: #2F92CA;
 }
 
-/* profile photo card */
+.card .card-footer {
+	border-radius: 0 0 0.4rem 0.4rem;
+	padding: .74rem 1.25rem;
+	background-color: #f5f5f5;
+	border-top: 0.1em solid #e5e5e5;
+	color: #4e5665;
+}
 
 .card .card-header {
 	border-radius: 0.4rem 0.4rem 0 0;
@@ -239,3 +245,35 @@ ul#feed li {
 ul#feed li:last-child {
 	border-bottom: none;
 }
+
+/* Right hand side content */
+div#who-follow li {
+	margin-bottom: 2em;
+}
+
+div#who-follow li:last-child {
+	margin-bottom: 0;
+}
+
+div#who-follow li img {
+	width: 26%;
+	display: inline-block;
+	vertical-align: top;
+	margin-right: 2%;
+}
+
+div#who-follow li .info {
+	width: 68%;
+	display: inline-block;
+}
+
+div#who-follow li .info strong {
+	display: block;
+	overflow: hidden;
+	text-overflow: ellipsis;
+}
+
+div#who-follow li .info glyphicon {
+	 color: #2F92CA;
+}
+
