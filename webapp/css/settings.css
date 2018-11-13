@@ -23,3 +23,16 @@
 #profile-settings {
 	margin-top: 2rem;
 }
+
+/* tabs section */
+#account-tabs > li {
+	border-bottom: 0.1rem solid #e5e5e5;
+}
+
+#acount-tabs a {
+	border-bottom: 0;
+}
+
+#account-tabs li.active {
+	border-bottom: 0;
+}
