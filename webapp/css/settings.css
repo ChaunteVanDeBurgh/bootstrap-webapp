@@ -36,3 +36,23 @@
 #account-tabs li.active {
 	border-bottom: 0;
 }
+
+/* user info form */
+
+#main .tab-content {
+	padding: 2em;
+	margin-top: -0.1rem;
+}
+
+#account-tabs > li {
+	border-bottom: 0;
+}
+
+#acount-tabs {
+	position: relative;
+	z-index: 99;
+}
+
+#main .form-horizontal .form-group: last-child {
+	margin-bottom: 0;
+}
