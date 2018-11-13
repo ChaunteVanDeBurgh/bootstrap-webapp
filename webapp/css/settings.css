@@ -56,3 +56,9 @@
 #main .form-horizontal .form-group: last-child {
 	margin-bottom: 0;
 }
+
+/* right column dog stats */
+
+.list-group-item {
+	border-color: #e5e5e5;
+}
