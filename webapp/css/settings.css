@@ -62,3 +62,17 @@
 .list-group-item {
 	border-color: #e5e5e5;
 }
+
+#right-content .list-group .label {
+	float: right;
+}
+
+#right-content .list-group .label {
+	padding: 0.3rem 0.6rem;
+}
+
+#right-content .list-group .badge.glyphicon-star {
+	background-color: #f0ad4e;
+	padding: 0.4rem;
+	padding-left: 0.5rem;
+}
